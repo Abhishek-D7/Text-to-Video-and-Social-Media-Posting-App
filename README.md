@@ -1,0 +1,1 @@
+Demo project for a library using **FastAPI and Mongodb**
